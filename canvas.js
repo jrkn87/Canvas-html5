@@ -8,7 +8,7 @@ let mouse = {
     y: undefined
 }
 
-let maxRadius = 60;
+let maxRadius = 80;
 
 let colorArr = [
     '#036169',
